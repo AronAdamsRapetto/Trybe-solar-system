@@ -1,0 +1,15 @@
+.planeta img {
+    width: 165px;
+}
+
+.planeta p {
+    color: white;
+    font-size: 20px;
+}
+
+.container-planetas {
+    display: flex;
+    margin: 50px 0;
+    flex-wrap: wrap;   
+    justify-content: center; 
+}
