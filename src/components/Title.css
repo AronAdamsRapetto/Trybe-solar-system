@@ -1,10 +1,10 @@
 .titulo {
-    font-size: 40px;
-    color: white;
-    border: 1px solid white;
-    width: 80%;
-    margin: auto;
-    border-radius: 15px;
-    padding: 10px;
-    background: rgba(0, 0, 0, 0.6);
+  background: rgba(0, 0, 0, 0.6);
+  border: 1px solid white;
+  border-radius: 15px;
+  color: white;
+  font-size: 40px;
+  margin: auto;
+  padding: 10px;
+  width: 80%;
 }
